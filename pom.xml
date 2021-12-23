@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dubbo-simples-echo</module>
+        <module>dubbo-tcc-transaction</module>
     </modules>
 
     <dependencies>
